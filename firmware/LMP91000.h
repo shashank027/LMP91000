@@ -1,6 +1,8 @@
 #ifndef LMP91000_H
 #define LMP91000_H
 
+ #include "application.h"
+
 // #if defined(ARDUINO) && ARDUINO >= 100
 // #include <Arduino.h>
 // #else
