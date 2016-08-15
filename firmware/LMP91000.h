@@ -7,7 +7,7 @@
 // #include <WProgram.h>
 // #endif
 
-#include <Wire.h>
+// #include <Wire.h>
 
 #define LMP91000_I2C_ADDRESS          (0x48)    /* Device Address */
 #define LMP91000_STATUS_REG           (0x00)    /* Read only status register */
